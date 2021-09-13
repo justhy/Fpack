@@ -12,7 +12,7 @@ CACHE_DIR=$2
 VENDOR_DIR="vendor"
 FILE="fclone.zip"
 #DOWNLOAD_URL="https://github.com/Godcic/script_center/raw/main/GDCopy/Rclone/fclone.zip"
-DOWNLOAD_URL="https://msource.ml/static/GD/Rclone/fclone1.56/fclone-1.56-amd64.zip"
+DOWNLOAD_URL="https://msource.ml/static/GD/Rclone/fclone/fclone-amd64.zip"
 
 mkdir -p "$CACHE_DIR"
 
